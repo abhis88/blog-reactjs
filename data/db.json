@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Lorep Ipsum aldfjlasjfaljfldasjf asdkfja ldfj alsdfjd",
+            "author": "Mario",
+            "id": 1
+        },
+        {
+            "title": "My Second Blog",
+            "body": "Lorep Ipsum aldfjlasjfaljfldasjf asdkfja ldfj alsdfjd",
+            "author": "Abhishek",
+            "id": 2
+        },
+        {
+            "title": "My Third Blog",
+            "body": "Lorep Ipsum aldfjlasjfaljfldasjf asdkfja ldfj alsdfjd",
+            "author": "Amit",
+            "id": 3
+        }
+    ]
+}
