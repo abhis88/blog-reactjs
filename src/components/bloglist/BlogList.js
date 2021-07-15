@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 
 const BlogList = (props) => {
     const blogs = props.blogs;
