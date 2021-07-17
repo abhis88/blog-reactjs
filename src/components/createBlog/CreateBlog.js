@@ -12,7 +12,6 @@ const CreateBlog = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         const blog = {title, body, author};
-        console.log(blog);
         setIsPending(true);
 
         setTimeout(() => {
